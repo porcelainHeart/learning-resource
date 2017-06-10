@@ -11,6 +11,7 @@
 - [JS标准教程](http://javascript.ruanyifeng.com/)：阮一峰的js教程，比较全面，覆盖知识点广且易于学习，适合刚入门的新人。
 - [MDN](https://developer.mozilla.org/zh-CN/)：比较权威的资料站，也有少量教程，知识点远比W3school准确，适合刚入门的新人。
 - [ES6入门指南](http://es6.ruanyifeng.com/)：ES6标准教程，基本是学习ES6必看，适合有一定JS基础的人。
+- [ES6学习笔记](https://github.com/porcelainHeart/ES6-study-notes)：我的ES6学习笔记，更加简单易懂，剔除不常用的知识点，适合js基础稍差的人。
 - [深入理解JavaScript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)：长篇博文，生动形象，适合js入门新人。
 - [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html#一个简单例子)：非常优秀的函数式编程入门书，适合具备一定js基础的人。
 - [React小书](http://huziketang.com/books/react/)：优秀的React中文教程，适合js基础较好的人。
