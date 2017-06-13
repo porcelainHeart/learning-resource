@@ -26,6 +26,7 @@
 - [Vue源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/): 很不错的vue原理解析, 适合想深入学习Vue的人
 
 ### PHP
+- [PHP之道](http://laravel-china.github.io/php-the-right-way/): 学习PHP必读书, 资源丰富,循序渐进, 适合所有学习PHP的人
 - [PHP中文手册](http://php.net/manual/zh/)：可能是学习PHP最常打开的网站，适合所有学习PHP的人。
 - [Laravel中文社区](https://laravel-china.org/)：学习资料很多，Laravel大法好，适合想学习一个简单易用PHP框架的人。
 - [MeDoo](http://medoo.lvtao.net/doc.php)：小巧的PHP-MySql框架，源码值得阅读，适合有一定PHP基础的人。
