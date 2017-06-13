@@ -22,6 +22,7 @@
 - [webpack中文文档](https://doc.webpack-china.org/configuration/)：学习前端工程化必读，文档友好，适合需要使用webpack的人。
 - [Regulex](https://jex.im/regulex/)：正则可视化工具，学习正则表达式利器，适合所有学习前端的人。
 - [7天学会nodejs](https://www.lvtao.net/content/book/node.js.htm#1)：还可以的node教程，适合有一定js基础的人。
+- [Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide): 不错的js入门教程, 适合有一定js基础的人
 - [Vue源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/): 很不错的vue原理解析, 适合想深入学习Vue的人
 
 ### PHP
