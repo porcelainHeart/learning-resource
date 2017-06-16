@@ -57,6 +57,9 @@
 - [MySql错误代码速查表](http://www.cnblogs.com/skillCoding/archive/2011/09/07/2169932.html)：必备工具，适合所有学习MySQL的人。
 - [SQL反模式](https://book.douban.com/subject/6800774/)：极其优秀的数据库设计书籍，无论是否学习SQL，这本书都会对你大有帮助，适合所有学习编程的人。
 
+### Redis
+- [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook): redis入门佳作,详细解析redis各种细节,适合学习redis的新人
+
 ### Linux
 - [Shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)：优秀的入门书，适合所有学习Shell的新人。
 - [Linux中国社区](https://linux.cn/)：内有大量的Linux学习资源，适合所有学习linux的人。
