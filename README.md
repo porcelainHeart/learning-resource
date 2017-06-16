@@ -47,6 +47,11 @@
 - [雨痕的学习笔记](https://github.com/qyuhen/book)：详细的Go学习路线，新人必读书，适合所有学习Go的新人。
 - [Go语言圣经](https://www.gitbook.com/book/yar999/gopl-zh/details)：Go进阶必读书，适合了解Go语法基础的新人。
 
+### Scheme
+- [Scheme简明教程](https://wizardforcel.gitbooks.io/teach-yourself-scheme): 简单易懂的scheme入门教程,比较系统比较全面,适合学习scheme的新人
+- [SICP](): 此书不配链接, 建议购买实体书, 当之无愧的神书, 任何程序员都应当读一读, 适合有较强思维能力和不错编程功底的程序员
+
+
 ### MySQL
 - [MySql教程](http://www.runoob.com/mysql/mysql-tutorial.html)：有点旧的MySQL教程，好在MySQL语法变化不大，适合新手入门学习。
 - [MySql错误代码速查表](http://www.cnblogs.com/skillCoding/archive/2011/09/07/2169932.html)：必备工具，适合所有学习MySQL的人。
