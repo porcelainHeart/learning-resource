@@ -40,6 +40,7 @@
 
 ### Ruby
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0)：极其优秀的交互式Ruby教程，适合刚入门Ruby的人
+- [笨方法学Ruby](https://www.kancloud.cn/in-2/learn-ruby-the-hard-way/81182): 优秀的Ruby入门书,适合没有编程基础的新人
 - [Ruby中国社区](https://ruby-china.org/)：欢迎加入有爱的Ruby大家庭，这里有人为你解答一切学习中的疑问，适合所有学习Ruby的人。
 - [Rails教程](https://railstutorial-china.org/)：必看的Rails教程，适合了解了Ruby基础语法的新人。
 
