@@ -24,6 +24,7 @@
 - [7天学会nodejs](https://www.lvtao.net/content/book/node.js.htm#1)：还可以的node教程，适合有一定js基础的人。
 - [Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide): 不错的js入门教程, 适合有一定js基础的人
 - [Vue源码学习](http://hcysun.me/2017/03/03/Vue%E6%BA%90%E7%A0%81%E5%AD%A6%E4%B9%A0/): 很不错的vue原理解析, 适合想深入学习Vue的人
+- [黑客与画家](https://book.douban.com/subject/6021440/): 这并不是一本教你如何编程的书, 但它能带你看到不一样的编程世界, 推荐给任何想学编程的人, 这本书很薄, 几天就可以读完, 但是可能会让你受用终生
 
 ### PHP
 - [PHP之道](http://laravel-china.github.io/php-the-right-way/): 学习PHP必读书, 资源丰富,循序渐进, 适合所有学习PHP的人
