@@ -43,6 +43,7 @@
 - [笨方法学Ruby](https://www.kancloud.cn/in-2/learn-ruby-the-hard-way/81182): 优秀的Ruby入门书,适合没有编程基础的新人
 - [Ruby中国社区](https://ruby-china.org/)：欢迎加入有爱的Ruby大家庭，这里有人为你解答一切学习中的疑问，适合所有学习Ruby的人。
 - [Rails教程](https://railstutorial-china.org/)：必看的Rails教程，适合了解了Ruby基础语法的新人。
+- [Ruby元编程](https://book.douban.com/subject/26575429/): 极其优秀的教程书, 叙事风格独特, 易入门同时也有深度, 适合所有的程序员去读一读, 无论你是否学习Ruby
 
 ### Go
 - [雨痕的学习笔记](https://github.com/qyuhen/book)：详细的Go学习路线，新人必读书，适合所有学习Go的新人。
@@ -70,6 +71,7 @@
 
 ### 其他
 - [黑客与画家](https://book.douban.com/subject/6021440/): 这并不是一本教你如何编程的书, 但它能带你看到不一样的编程世界, 推荐给任何想学编程的人, 这本书很薄, 几天就可以读完, 但是可能会让你受用终生
+- [算法导论](https://book.douban.com/subject/20432061/): 所有程序员都必须学习的基础书, 进阶必经之路, 需要花长时间去理解, 适合有一定编程基础的人
 
 
 ## 写在后面的话
