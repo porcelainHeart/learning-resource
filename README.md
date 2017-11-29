@@ -44,6 +44,7 @@
 - [Ruby中国社区](https://ruby-china.org/)：欢迎加入有爱的Ruby大家庭，这里有人为你解答一切学习中的疑问，适合所有学习Ruby的人。
 - [Rails教程](https://railstutorial-china.org/)：必看的Rails教程，适合了解了Ruby基础语法的新人。
 - [Ruby元编程](https://book.douban.com/subject/26575429/): 极其优秀的教程书, 叙事风格独特, 易入门同时也有深度, 适合所有的程序员去读一读, 无论你是否学习Ruby
+- [松本行弘的程序世界](https://book.douban.com/subject/6756090/): 很优秀的编程导读书, 从编程语言设计者的角度阐释编程的处处细节, 值得所有的程序员一读
 
 ### Go
 - [雨痕的学习笔记](https://github.com/qyuhen/book)：详细的Go学习路线，新人必读书，适合所有学习Go的新人。
