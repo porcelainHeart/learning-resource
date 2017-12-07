@@ -37,6 +37,7 @@
 - [简明的Python教程](https://www.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details)：优秀的Python进阶书，适合已有一定Python基础的新人。
 - [笨方法学Python](https://www.gitbook.com/book/wizardforcel/lpthw/details)：不错的Python入门书，适合所有学习Python的人。
 - [Flask官方文档](https://dormousehole.readthedocs.io/en/latest/)：易于上手的Python框架，适合具有一定Python基础的人。
+- [Python3教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000)：廖雪峰老师的最新Python3教程，简单易懂，适合刚入门Python的新人。
 
 ### Ruby
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0)：极其优秀的交互式Ruby教程，适合刚入门Ruby的人
