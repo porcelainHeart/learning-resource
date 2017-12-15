@@ -67,6 +67,9 @@
 - [Shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)：优秀的入门书，适合所有学习Shell的新人。
 - [Linux中国社区](https://linux.cn/)：内有大量的Linux学习资源，适合所有学习linux的人。
 
+### Docker
+- [docker入门与实践](http://docker_practice.gitee.io/): docker入门书, 适合所有学习docker的新人
+
 ### Vim
 - [笨方法学Vimscript](http://learnvimscriptthehardway.onefloweroneworld.com/)：学习Vim必读书，全部读完会有质变，适合所有学习Vim的新人
 
