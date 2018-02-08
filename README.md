@@ -55,6 +55,9 @@
 - [Scheme简明教程](https://wizardforcel.gitbooks.io/teach-yourself-scheme): 简单易懂的scheme入门教程,比较系统比较全面,适合学习scheme的新人
 - [SICP](https://book.douban.com/subject/1148282/): 建议购买实体书, 当之无愧的神书, 任何程序员都应当读一读, 适合有较强思维能力和不错编程功底的程序员
 
+### 区块链
+- [智能合约入门教程](http://ethfans.org/posts/101-noob-intro): 简单易懂的智能合约入门教程文字, 适合所有学习区块链技术的新人
+- [ETH白皮书](http://ethfans.org/posts/ethereum-whitepaper): eth白皮书中文版, 学习智能合约必读经典
 
 ### MySQL
 - [MySql教程](http://www.runoob.com/mysql/mysql-tutorial.html)：有点旧的MySQL教程，好在MySQL语法变化不大，适合新手入门学习。
