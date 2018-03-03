@@ -15,8 +15,8 @@
 - [深入理解JavaScript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/4001284.html)：长篇博文，生动形象，适合js入门新人。
 - [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html#一个简单例子)：非常优秀的函数式编程入门书，适合具备一定js基础的人。
 - [React小书](http://huziketang.com/books/react/)：优秀的React中文教程，适合js基础较好的人。
-- [Angular官方教程](https://angular.cn/docs/ts/latest/quickstart.html)：Angular2/4入门教程，适合js基础较好的人。
-- [Vue官方教程](http://cn.vuejs.org/v2)：文档简单易读，容易入门，适合有一定js基础的人。
+- [Angular官方教程](https://angular.cn/guide/quickstart)：Angular2/4入门教程，适合js基础较好的人。
+- [Vue官方教程](https://cn.vuejs.org/v2/guide/)：文档简单易读，容易入门，适合有一定js基础的人。
 - [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/)：优秀的js进阶教程，适合正在学习js的人。
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/)：可能是最优秀的js进阶教程，学习js必读书，无可替代，适合有一些js基础的人。
 - [webpack中文文档](https://doc.webpack-china.org/configuration/)：学习前端工程化必读，文档友好，适合需要使用webpack的人。
