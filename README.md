@@ -66,6 +66,7 @@
 
 ### Redis
 - [Redis设计与实现](https://www.kancloud.cn/kancloud/redisbook): redis入门佳作,详细解析redis各种细节,适合学习redis的新人
+- [基于Redis的分布式锁到底安全吗?](https://blog.csdn.net/paincupid/article/details/75094550): 长篇优秀博文, 针对Redis分布式锁的安全性深入讨论
 
 ### Linux
 - [Shell入门](https://github.com/qinjx/30min_guides/blob/master/shell.md)：优秀的入门书，适合所有学习Shell的新人。
@@ -81,7 +82,7 @@
 - [黑客与画家](https://book.douban.com/subject/6021440/): 这并不是一本教你如何编程的书, 但它能带你看到不一样的编程世界, 推荐给任何想学编程的人, 这本书很薄, 几天就可以读完, 但是可能会让你受用终生
 - [算法导论](https://book.douban.com/subject/20432061/): 所有程序员都必须学习的基础书, 进阶必经之路, 需要花长时间去理解, 适合有一定编程基础的人
 - [浮现式设计](https://book.douban.com/subject/6757781/): 以独特的角度解读设计模式, 适合基础薄弱, 初接触设计模式的人
-- [代码的奥秘](https://book.douban.com/subject/1024570/):用基本的继电器搭建一个简单计算机，适合零基础学习计算机，且喜欢刨根问底的人。（这本书中文有两本，推荐上链接的这本，个人觉得翻译的更好。）
+- [代码的奥秘](https://book.douban.com/subject/1024570/): 用基本的继电器搭建一个简单计算机，适合零基础学习计算机，且喜欢刨根问底的人。（这本书中文有两本，推荐上链接的这本，个人觉得翻译的更好。）
 
 ## 写在后面的话
 
