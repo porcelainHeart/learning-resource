@@ -8,7 +8,7 @@
 - [FCC编程训练（中文）](https://freecodecamp.cn)：非常优秀的教程，闯关式的实践，适合所有学习前端的人。
 - [慕课网](http://www.imooc.com/)：视频教程网站，质量远高于培训班流出的视频，适合刚入门的新人。
 - [W3school](http://www.w3school.com.cn/)：注意不是W3C，这只是一个普通的教程网站，一般用来查阅简单资料，适合刚入门的新人。
-- [JS标准教程](http://javascript.ruanyifeng.com/)：阮一峰的js教程，比较全面，覆盖知识点广且易于学习，适合刚入门的新人。
+- [JS标准教程](https://wangdoc.com/javascript/)：阮一峰的js教程，比较全面，覆盖知识点广且易于学习，适合刚入门的新人。
 - [MDN](https://developer.mozilla.org/zh-CN/)：比较权威的资料站，也有少量教程，知识点远比W3school准确，适合刚入门的新人。
 - [ES6入门指南](http://es6.ruanyifeng.com/)：ES6标准教程，基本是学习ES6必看，适合有一定JS基础的人。
 - [ES6学习笔记](https://github.com/porcelainHeart/ES6-study-notes)：我的ES6学习笔记，更加简单易懂，剔除不常用的知识点，适合js基础稍差的人。
