@@ -12,13 +12,14 @@
 - [深入理解JavaScript原型和闭包](http://www.cnblogs.com/wangfupeng1988/p/4001284.html) 长篇博文，生动形象
 - [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html#一个简单例子) 优秀的js函数式编程入门书，适合具备一定js基础的人
 - [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/) 较完善的ts中文教程
+- [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/) TypeScript Deep Dive 的中文翻译版, 非常优秀的ts教程
 - [React小书](http://huziketang.com/books/react/) 优秀的React中文教程
 - [Angular官方教程](https://angular.cn/guide/quickstart) Angular2+ 官方入门教程
 - [Vue官方教程](https://cn.vuejs.org/v2/guide/) 官方文档, 简单易读, 容易入门
 - [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/) 不错的js进阶教程
 - [You-Dont-Know-JS](https://github.com/getify/You-Dont-Know-JS/) 可能是最优秀的js进阶教程，学习js必读书
 - [webpack中文文档](https://doc.webpack-china.org/configuration/) 学习前端工程化必读，文档友好
-- [Regulex](https://jex.im/regulex/)：正则可视化工具，学习正则表达式利器
+- [Regulex](https://jex.im/regulex/) 正则可视化工具，学习正则表达式利器
 - [Node中文文档](http://nodejs.cn/) 同步官方更新的中文文档
 - [7天学会nodejs](https://www.lvtao.net/content/book/node.js.htm#1) 还可以的node教程
 - [Nodejs学习笔记](https://github.com/chyingp/nodejs-learning-guide) node入门学习笔记
@@ -44,7 +45,7 @@
 - [Python3官方教程](http://www.pythondoc.com/pythontutorial3/index.html) 官方中文教程
 - [Python3教程](https://www.liaoxuefeng.com/wiki/0014316089557264a6b348958f449949df42a6d3a2e542c000) 廖雪峰的Python3教程
 - [Google Python风格指南](http://zh-google-styleguide.readthedocs.org/en/latest/google-python-styleguide/) 谷歌的python代码规范
-- [简明的Python教程](https://www.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details)：优秀的Python进阶书
+- [简明的Python教程](https://www.gitbook.com/book/lenkimo/byte-of-python-chinese-edition/details) 优秀的Python进阶书
 - [笨方法学Python](https://www.gitbook.com/book/wizardforcel/lpthw/details) 不错的Python入门书
 - [Flask官方文档](https://dormousehole.readthedocs.io/en/latest/) 易于上手的Python框架
 - [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/) 非常实用的python教程
