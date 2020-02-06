@@ -106,7 +106,7 @@
 - [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html) 不错的grpc入门教程
 
 ### Vim
-- [笨方法学Vimscript](http://learnvimscriptthehardway.onefloweroneworld.com/) 学习Vim必读书，全部读完会有质变
+- [笨方法学Vimscript](http://higrid.net/hi/books/learnvimthehardway) 学习Vim必读书，全部读完会有质变
 
 ### 其他
 - [黑客与画家](https://book.douban.com/subject/6021440/) 这并不是一本教你如何编程的书, 但它能带你看到不一样的编程世界, 推荐给任何想学编程的人, 这本书很薄, 几天就可以读完, 但是可能会让你受用终生
