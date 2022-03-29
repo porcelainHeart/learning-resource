@@ -13,7 +13,7 @@
 - [JS函数式编程指南](https://llh911001.gitbooks.io/mostly-adequate-guide-chinese/content/ch1.html#一个简单例子) 优秀的js函数式编程入门书，适合具备一定js基础的人
 - [TypeScript Handbook](https://zhongsp.gitbooks.io/typescript-handbook/content/) 较完善的ts中文教程
 - [深入理解 TypeScript](https://jkchao.github.io/typescript-book-chinese/) TypeScript Deep Dive 的中文翻译版, 非常优秀的ts教程
-- [React小书](http://huziketang.com/books/react/) 优秀的React中文教程
+- [React小书](https://hyf.js.org/react-naive-book/) 优秀的React中文教程
 - [Angular官方教程](https://angular.cn/guide/quickstart) Angular2+ 官方入门教程
 - [Vue官方教程](https://cn.vuejs.org/v2/guide/) 官方文档, 简单易读, 容易入门
 - [JavaScript秘密花园](http://bonsaiden.github.io/JavaScript-Garden/zh/) 不错的js进阶教程
@@ -106,7 +106,7 @@
 - [Grpc学习笔记](https://skyao.gitbooks.io/learning-grpc/content/introduction/information.html) 不错的grpc入门教程
 
 ### Vim
-- [笨方法学Vimscript](http://higrid.net/hi/books/learnvimthehardway) 学习Vim必读书，全部读完会有质变
+- [笨方法学Vimscript](https://higrid.net/a/books/learnvimthehardway) 学习Vim必读书，全部读完会有质变
 
 ### 其他
 - [黑客与画家](https://book.douban.com/subject/6021440/) 这并不是一本教你如何编程的书, 但它能带你看到不一样的编程世界, 推荐给任何想学编程的人, 这本书很薄, 几天就可以读完, 但是可能会让你受用终生
