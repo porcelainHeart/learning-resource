@@ -49,6 +49,7 @@
 - [笨方法学Python](https://www.gitbook.com/book/wizardforcel/lpthw/details) 不错的Python入门书
 - [Flask官方文档](https://dormousehole.readthedocs.io/en/latest/) 易于上手的Python框架
 - [Python最佳实践指南](http://pythonguidecn.readthedocs.io/zh/latest/) 非常实用的python教程
+- [Python 编程教程](https://www.scaler.com/topics/python/) 详细学习Python编程
 
 ### Ruby
 - [Try Ruby](http://tryruby.org/levels/1/challenges/0) 优秀的交互式Ruby教程, 新人几分钟即可上手
